@@ -150,9 +150,9 @@ User interacts → XP earned → Progress tracked in localStorage
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your@email.com
+  Vachan U S 
+- GitHub: https://github.com/vachan18
+- Email: vachanus@email.com
 
 ---
 
@@ -160,12 +160,4 @@ User interacts → XP earned → Progress tracked in localStorage
 
 MIT License — free to use, fork, and build upon.
 
----
 
-<div align="center">
-
-Built with ❤️ for the **UnsaidTalks AI Study Buddy Hackathon**
-
-[🌐 Live Demo](https://YOUR_USERNAME.github.io/lumiq-study-buddy/) · [🎬 Video](YOUR_DEMO_VIDEO_LINK) · [🐛 Issues](https://github.com/YOUR_USERNAME/lumiq-study-buddy/issues)
-
-</div>
