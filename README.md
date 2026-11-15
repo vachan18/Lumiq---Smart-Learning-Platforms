@@ -1,5 +1,9 @@
 # 🧠 Lumiq — Learn at the Speed of Light
 
+[![Lumiq CI](https://github.com/vachan18/Lumiq---Smart-Learning-Platforms/actions/workflows/ci.yml/badge.svg)](https://github.com/vachan18/Lumiq---Smart-Learning-Platforms/actions/workflows/ci.yml)
+[![Live Site](https://img.shields.io/badge/Live_Site-Netlify-00C7B7?logo=netlify&logoColor=white)](https://limuq.netlify.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > **AI Study Buddy Hackathon Submission** — UnsaidTalks × Unstop
 
 An AI-powered, all-in-one personalized learning platform that transforms your PDFs and study notes into summaries, flashcards, quizzes, mind maps, and more — right in your browser. No backend required.
